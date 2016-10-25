@@ -17,9 +17,6 @@
 
 > ![](imgs/2.png)
 
-#### 官方 WIKI：
-
-主页：[Home](http://git.oschina.net/Lindor_L/BXT-AR4Python/wikis/home)
 
 ---------------------------------------------------------
 
